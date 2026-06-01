@@ -1,0 +1,15 @@
+{
+  "name": "GoalGrid",
+  "short_name": "GoalGrid",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#131210",
+  "theme_color": "#2d6a4f",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
